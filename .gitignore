@@ -1,0 +1,4 @@
+App-wcgrep-*
+.build
+*~
+nytprof*
